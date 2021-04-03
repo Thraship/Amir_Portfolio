@@ -1,6 +1,7 @@
 *Amir's Data Science Portfolio*
 
-# [Project 1: Stroke Prediction](https://github.com/Thraship/stroke_prediction) ![brain stroke](/images/brain2.png)
+# [Project 1: Stroke Prediction](https://github.com/Thraship/stroke_prediction) 
+![brain stroke](/images/brain2.png)
 
 ## Motivation
 The endgoal for this project is to answer the following questions:
