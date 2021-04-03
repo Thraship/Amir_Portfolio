@@ -15,4 +15,4 @@ The endgoal for this project is to answer the following questions:
 - Created and optimized a Random Forest Classification model by using GridSearchCV to reach 94.4% accuracy to predict stroke probability
 - Model was saved using joblib library
 
-![brain stroke](/images/brain.png)
+![brain stroke](/images/brain2.png)
