@@ -1,6 +1,6 @@
 *Amir's Data Science Portfolio*
 
-# [Project 1: Stroke Prediction](https://github.com/Thraship/stroke_prediction)
+# [Project 1: Stroke Prediction](https://github.com/Thraship/stroke_prediction) ![brain stroke](/images/brain2.png)
 
 ## Motivation
 The endgoal for this project is to answer the following questions:
@@ -14,5 +14,3 @@ The endgoal for this project is to answer the following questions:
 - Cleaned data from over 5000 patients
 - Created and optimized a Random Forest Classification model by using GridSearchCV to reach 94.4% accuracy to predict stroke probability
 - Model was saved using joblib library
-
-![brain stroke](/images/brain2.png)
