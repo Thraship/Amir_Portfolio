@@ -1,4 +1,4 @@
-# Amir's Data Science Portfolio
+# *Amir's Data Science Portfolio*
 
 # [Project 1: Stroke Prediction](https://github.com/Thraship/stroke_prediction)
 
