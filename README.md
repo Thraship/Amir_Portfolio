@@ -18,7 +18,7 @@ The endgoal for this project is to answer the following questions:
 
 
 # [Project 2: Data Science Salary Prediction](https://github.com/amirostad/Web_scraping_jobs) 
-![data science salary](/plots/project_pic.png)
+![data science salary](/images/project2.png)
 
 ## Motivation
 The endgoal for this project is to answer the following questions:
