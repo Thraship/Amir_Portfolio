@@ -28,7 +28,7 @@ The endgoal for this project is to answer the following questions:
 
 ## Project Overview
 - The objective is to predict the salary of data scientist positions based on location, seniority, type of the company, industry, etc.
-- The dataset used in this project is a combination of dataset obtained from https://www.kaggle.com/andrewmvd/data-scientist-jobs and extra data scientist positions scraped by glassdoor scraper uploaded to this repository
+- The dataset used in this project is a combination of dataset obtained from https://www.kaggle.com/andrewmvd/data-scientist-jobs and extra data scientist positions scraped by  glassdoor scraper developed and uploaded to this repository
 - Cleaned dataset of over 5500 data scientist positions
-- Created and optimized Random Forest Regression model by using GridSearchCV to reach MAE=0.29, RMSE=2.26, and R<sup>2</sup>score=0.99
+- Created and optimized Random Forest Regression model by using GridSearchCV to reach MAE=22.32, RMSE=28.61, and R<sup>2</sup>score=0.40
 - Model was saved using joblib library
