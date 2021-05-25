@@ -23,10 +23,10 @@ The endgoal for this project is to answer the following questions:
 ## Motivation
 The endgoal for this project is to answer the following questions:
 
-1.Can a data scientist's salary be predicted and if so how accurately?
-2.What features are important in predicting a data scientist's salary?
-3.Another motivation was to see the relative number of data scientist jobs posted in different states in USA.
-4.What industries/sectors pay higher salaries?
+1. Can a data scientist's salary be predicted and if so how accurately?
+2. What features are important in predicting a data scientist's salary?
+3. Another motivation was to see the relative number of data scientist jobs posted in different states in USA.
+4. What industries/sectors pay higher salaries?
 
 ## Project Overview
 - The objective is to predict the salary of data scientist positions based on location, seniority, type of the company, industry, etc.
