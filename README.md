@@ -20,6 +20,9 @@ The endgoal for this project is to answer the following questions:
 # [Project 2: Data Science Salary Prediction](https://github.com/amirostad/Web_scraping_jobs) 
 ![data science salary](/images/project2.png)
 
+## Publication
+Here is the corresponding blog post which was published through GeekCulture publication: [data_science_salaries](https://amirostad.medium.com/use-data-science-to-predict-data-scientists-earnings-641849c7270)
+
 ## Motivation
 The endgoal for this project is to answer the following questions:
 
